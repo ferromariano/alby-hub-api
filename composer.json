@@ -1,0 +1,18 @@
+{
+    "name": "ferromariano/alby-hub-api",
+    "description": "Client AlbyHub Api",
+    "type": "api, alby, albyhub, lightning",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlbyHubApiClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariano Ferro",
+            "email": "ferro.mariano@gmail.com"
+        }
+    ],
+    "require": {}
+}
